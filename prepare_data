@@ -1,0 +1,30 @@
+Amazon SageMaker Examples
+
+Prepare Data
+
+The example notebooks within this folder showcase Sagemaker's data preparation capabilities. Data preparation in machine learning refers to the process of collecting, preprocessing, and organizing raw data to make it suitable for analysis and modeling.
+
+Data Wrangler Data Prep Widget - Example Notebook
+Amazon SageMaker Feature Store: Feature Processor Introduction
+Amazon SageMaker Feature Store: Ground Truth Classification labelling job output to Feature Store
+Amazon SageMaker Feature Store: Introduction to Feature Store
+Create an Active Learning Workflow using Amazon SageMaker Ground Truth
+Understanding Annotation Consolidation: A SageMaker Ground Truth Demonstration for Image Classification
+From Unlabeled Data to a Deployed Machine Learning Model: A SageMaker Ground Truth Demonstration for Object Detection
+Audit and Improve Video Annotation Quality Using Amazon SageMaker Ground Truth
+Amazon Augmented AI(A2I) Integrated with AWS Marketplace ML Models
+Feature transformation with Amazon SageMaker Processing and Dask
+Distributed Data Processing using Apache Spark and SageMaker Processing
+SageMaker PySpark PCA and K-Means Clustering MNIST Example
+Create a 3D Point Cloud Labeling Job with Amazon SageMaker Ground Truth
+Chaining using Ground Truth Streaming Labeling Jobs
+Create a Ground Truth Streaming Labeling Job
+Labeling Adjustment Job Adaptation
+Training Object Detection Models in SageMaker with Augmented Manifests
+Using a Pre-Trained Model for Cost Effective Data Labeling
+Improving Your LLMs with RLHF on SageMaker
+Identify Worker Labeling Efficiency using SageMaker GroundTruth
+Get started with SageMaker Processing
+SageMaker PySpark K-Means Clustering MNIST Example
+
+ref: https://github.com/aws/amazon-sagemaker-examples/tree/default/%20%20%20%20%20%20%20prepare_data
